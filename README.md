@@ -1,10 +1,16 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="Kauê de Oliveira Freitas - Estudante de Ciência da Computação" />
-  <br>
-  <a href="https://linkedin.com/in/kauê-freitas-686247351"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:kauefreitas1109@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
-  <a href="https://instagram.com/kaueof"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://github.com/Kaue-Oliveira-Freitas"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+# KAUÊ DE OLIVEIRA FREITAS
+
+### Estudante de Ciência da Computação
+
+📍 Patos, Paraíba, Brasil &nbsp;·&nbsp; 🎓 UEPB
+
+<a href="https://linkedin.com/in/kauê-freitas-686247351"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:kauefreitas1109@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<a href="https://instagram.com/kaueof"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://github.com/Kaue-Oliveira-Freitas"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
 </div>
 
 ---
@@ -64,14 +70,14 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Oliveira-Freitas&layout=compact&theme=tokyonight&langs_count=7&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Oliveira-Freitas&layout=compact&theme=github_dark&langs_count=7&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaue-Oliveira-Freitas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Kaue-Oliveira-Freitas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaue-Oliveira-Freitas&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Kaue-Oliveira-Freitas&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
